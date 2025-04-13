@@ -66,7 +66,7 @@ Scores are combined to create an overall RFM score and category.
 - Boxplots for RFM metrics by cluster.
 - Cluster distribution chart.
 - Elbow method plot.
-- 
+
 ## Insights & Results:
 - Clear segments formed.
 - Identified key groups: "Loyal Customers", "Potential Loyalists", "At-Risk", etc.
